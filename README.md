@@ -1,1 +1,0 @@
-# Kompetensi-SDKD.txt
