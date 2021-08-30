@@ -1,1 +1,4 @@
-# Kompetensi-SDKD.txt
+Komunikasi Daring Sinkron
+Komunikasi Daring Asinkron
+Github
+Git
